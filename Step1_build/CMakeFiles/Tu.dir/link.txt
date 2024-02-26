@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tu.dir/tutorial.cxx.o -o Tu 
