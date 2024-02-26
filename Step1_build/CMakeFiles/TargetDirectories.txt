@@ -1,3 +1,0 @@
-/home/quynh/CMake/CMake-Tutorial/Step1_build/CMakeFiles/Tutorial.dir
-/home/quynh/CMake/CMake-Tutorial/Step1_build/CMakeFiles/edit_cache.dir
-/home/quynh/CMake/CMake-Tutorial/Step1_build/CMakeFiles/rebuild_cache.dir
